@@ -1,0 +1,7 @@
+/composer.lock
+/.editorconfig
+/.gitattributes
+/.idea
+/config
+/vendor
+/web
