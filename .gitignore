@@ -22,6 +22,7 @@ vendor
 /web/sites/default/default.services.yml
 /web/sites/default/default.settings.php
 /web/sites/default/services.yml
+web/sites/default/settings.php
 /web/sites/development.services.yml
 /web/sites/example.settings.local.php
 /web/sites/example.sites.php
@@ -30,3 +31,4 @@ vendor
 /web/.eslintrc.json
 /web/.ht.router.php
 /web/libraries/
+/web/themes/custom/fntc_theme
