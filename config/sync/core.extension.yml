@@ -37,6 +37,9 @@ module:
   rdf: 0
   search: 0
   shortcut: 0
+  social_api: 0
+  social_auth: 0
+  social_auth_facebook: 0
   system: 0
   taxonomy: 0
   text: 0
