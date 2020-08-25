@@ -1,0 +1,4 @@
+tls:
+  certificates:
+    - certFile: /certs/fntc.localhost.cert
+      keyFile: /certs/fntc.localhost.key
