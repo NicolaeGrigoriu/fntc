@@ -1,0 +1,14 @@
+uuid: 8a0434a5-597b-40ae-ada8-68a67d0a56d3
+name: 'Federația Națională de Taekwon-do Contemporan din Republica Moldova'
+mail: grigoriunicolae+fntc@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
