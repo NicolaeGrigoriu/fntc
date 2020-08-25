@@ -1,0 +1,14 @@
+uuid: 7b6efdd7-a16b-4543-8ed7-3799c965f484
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - grigoriunicolae+fntc@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
